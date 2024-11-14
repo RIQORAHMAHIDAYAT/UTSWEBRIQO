@@ -1,3 +1,3 @@
 # UTSWEBRIQO
 link vercel : https://utswebriqo.vercel.app/
-link Youtube :
+link Youtube : https://www.youtube.com/watch?v=UA7cNasXOQk
